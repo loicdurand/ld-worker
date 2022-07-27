@@ -1,0 +1,19 @@
+{
+  "name": "ld-worker",
+  "version": "1.0.0",
+  "description": "A very simple lib, intended to use web worker within your current script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loicdurand/ld-worker.git"
+  },
+  "author": "Loïc DURAND <loicdurand.ld@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loicdurand/ld-worker/issues"
+  },
+  "homepage": "https://github.com/loicdurand/ld-worker#readme"
+}
